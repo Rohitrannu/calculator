@@ -1,0 +1,25 @@
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex
+    }
+        
+    
+    .flex-col{
+        flex-direction: column;
+    } 
+.row input{
+    padding: 9px 38px;
+    border-radius: 8px;
+    border: 3px solid black;
+}
+h1{
+    text-align: center;
+    text-shadow: red;
+}
+.enter{
+    width: 171px;
+    font-size: larger;
+    font-weight: bold;
+}
